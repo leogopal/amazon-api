@@ -1,6 +1,6 @@
 # Amazon API
 
-This project is a comprehensive edge API for Amazon. It supports search and product endpoints. The search endpoint allows you to search for products on Amazon. The product endpoint allows you to get product details by ASIN. This API supports both `REST` and `GraphQL` endpoints.
+This project is a comprehensive edge API for Amazon. It supports search and product endpoints. The search endpoint allows you to search for products on Amazon. The product endpoint allows you to get product details by ASIN. This API supports both `REST` and `GraphQL` endpoints. 
 
 ## Changelog 🔔
 
