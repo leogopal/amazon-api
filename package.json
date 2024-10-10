@@ -19,7 +19,7 @@
   "main": "src/index.ts",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/tuhinpal/amazon-api.git"
+    "url": "git+https://github.com/leogopal/amazon-api.git"
   },
   "keywords": [
     "amazon"
